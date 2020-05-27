@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Archer.cs" />
+    <Compile Include="Assassin.cs" />
+    <Compile Include="Mage.cs" />
+    <Compile Include="Paladin.cs" />
+    <Compile Include="Pers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
